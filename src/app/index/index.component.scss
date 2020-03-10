@@ -1,0 +1,43 @@
+body {
+    height: 100vh;
+    overflow-y: hidden;
+    background-image: url("../../assets/static/cutFond70.png");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    margin: 5% 20%;
+    margin-top: 15%;
+    padding-left: 10%
+}
+
+h2 {
+    margin-left: 5%;
+}
+
+a {
+    color: rgba(0, 0, 0, 0.748);
+}
+
+.btn {
+    margin-bottom: 5%;
+}
+
+a:hover {
+    color: rgba(247, 133, 27, 0.776);
+}
+
+.btn:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    border: none;
+}
+
+a:hover {
+    opacity: 0.2;
+}
+
+#simple {
+    margin-bottom: 5%;
+    ;
+}
